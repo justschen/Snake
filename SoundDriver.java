@@ -1,7 +1,7 @@
 /*
  * To change this template, choose Tools | Templates
 *
- * @author Mr. Gonzalez, Nicholas Hernandez
+ * @author Mr. Gonzalez, Nicholas Hernandez, Justin Chen
  * @version 1.32 6/2/2015
  */
 import java.io.IOException;
